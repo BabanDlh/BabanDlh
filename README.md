@@ -1,4 +1,4 @@
-## Sup!
+# Sup!
 
 **A bit about me:**
 I'm a random french guy born on December 1st 2007.
@@ -12,9 +12,9 @@ However I'll probably use it too if I'm making a Minecraft mod and/or if I'm wor
 **My social links and stuff:**
 - https://www.youtube.com/@babandlh
 - https://www.youtube.com/@bobandlh
-https://www.twitch.tv/babandlh
-https://bsky.app/profile/babandlh.bsky.social
-https://babandlh.newgrounds.com/
-https://gamebanana.com/members/2525074
+- https://www.twitch.tv/babandlh
+- https://bsky.app/profile/babandlh.bsky.social
+- https://babandlh.newgrounds.com/
+- - https://gamebanana.com/members/2525074
 
-# Thanks for reading and have a nice day!
+## Thanks for reading and have a nice day!
