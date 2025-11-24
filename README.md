@@ -10,8 +10,8 @@ Most of the time I'll use it for school stuff so it'll be pretty empty...
 However I'll probably use it too if I'm making a Minecraft mod and/or if I'm working on some FNF mods!
 
 **My social links and stuff:**
-https://www.youtube.com/@babandlh
-https://www.youtube.com/@bobandlh
+- https://www.youtube.com/@babandlh
+- https://www.youtube.com/@bobandlh
 https://www.twitch.tv/babandlh
 https://bsky.app/profile/babandlh.bsky.social
 https://babandlh.newgrounds.com/
