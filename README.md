@@ -1,7 +1,7 @@
 # Sup!
 
 **A bit about me:**
-I'm a random french guy born on December 1st 2007.
+I'm a random french guy that uses MacOS and Windows a little bit.
 I'm not really into coding but if I use some guides I'm alright with that.
 I'm pretty active in the Friday Night Funkin' fandom.
 
