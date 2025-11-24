@@ -15,6 +15,6 @@ However I'll probably use it too if I'm making a Minecraft mod and/or if I'm wor
 - https://www.twitch.tv/babandlh
 - https://bsky.app/profile/babandlh.bsky.social
 - https://babandlh.newgrounds.com/
-- - https://gamebanana.com/members/2525074
+- https://gamebanana.com/members/2525074
 
 ## Thanks for reading and have a nice day!
